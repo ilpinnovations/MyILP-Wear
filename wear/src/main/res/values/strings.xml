@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">My ILP</string>
+
+    <string name="hello">Hello World!</string>
+    <string name="title">Hello Notification!</string>
+    <string name="notification_posted">Notification posted</string>
+    <string name="headline">My ILP</string>
+    <string name="date">Date</string>
+    <string name="received_message1">Message 1.</string>
+    <string name="received_message2">Message 2.</string>
+    <string name="received_messages">Received messages:</string>
+    <string name="send_message1">Send msg. 1</string>
+    <string name="send_message2">Send msg. 2</string>
+    <string name="message1_sent">Message 1 sent.</string>
+    <string name="error_message1">Error sending message 1.</string>
+    <string name="message2_sent">Message 2 sent.</string>
+    <string name="error_message2">Error sending message 2.</string>
+    <string name="peer_connected">Peer connected.</string>
+    <string name="peer_disconnected">Peer disconnected.</string>
+
+</resources>

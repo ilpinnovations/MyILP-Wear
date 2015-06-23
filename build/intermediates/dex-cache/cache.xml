@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-9a49ca4fba215632681f92a54d2be673c4f9cafc.jar" />
+    </item>
+    <item
+        jar="D:\Android Development Softwares\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\support-annotations-22.0.0-197232bca5b3da7b56ee3913ffc3b7366a18f217.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\mobile\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-63d834b7b75f13540ea37f83a2fbeaa056861f49.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\mobile\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\mobile\build\intermediates\pre-dexed\debug\classes-0290e64f2c5f136c37aad13a68862c7de3b7bd52.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-b51aa4a0e287e6c026a6f067c16f2289a60ea22e.jar" />
+    </item>
+    <item
+        jar="D:\Android Development Softwares\adt-bundle-windows-x86-20140702\adt-bundle-windows-x86-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\support-annotations-22.0.0-197232bca5b3da7b56ee3913ffc3b7366a18f217.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-e756f77b1c312e55e06397121cc46394b8409869.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-e672361cf44cf186d11d8ecbf5b489c84f060f49.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\mobile\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\mobile\build\intermediates\pre-dexed\debug\classes-39fefdfb983d9a17f42ad9ac577f6798d7ec6d1e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\internal_impl-22.0.0-309ef771e67e1c8365f67b1c42cd3e73c0137f5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-b51aa4a0e287e6c026a6f067c16f2289a60ea22e.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-0ef264aaee319a1e3947b1df8488232d0280a251.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\internal_impl-22.0.0-309ef771e67e1c8365f67b1c42cd3e73c0137f5c.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-e756f77b1c312e55e06397121cc46394b8409869.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.google.android.support\wearable\1.2.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-9a49ca4fba215632681f92a54d2be673c4f9cafc.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-0ef264aaee319a1e3947b1df8488232d0280a251.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\mobile\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\mobile\build\intermediates\pre-dexed\debug\classes-c8d84a81b74c9e4cf27f2399a8a9ab7edab182e8.jar" />
+    </item>
+    <item
+        jar="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\ilpuser\AndroidStudioProjects\MyILP\wear\build\intermediates\pre-dexed\release\classes-e672361cf44cf186d11d8ecbf5b489c84f060f49.jar" />
+    </item>
+
+</items>
